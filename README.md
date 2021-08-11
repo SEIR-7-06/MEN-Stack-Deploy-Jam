@@ -160,6 +160,10 @@ heroku config:set MONGODB_URI=MONGODB_URI=mongodb+srv://cluster_name:your_db_use
 
 Alternatively, you can set these fields in the Heroku GUI under the settings tab and then click "Reveal Config Vars".
 
+> Finally run `heroku open` to open your hosted app in the browser!
+
+<hr>
+
 ## Debugging Tips
 
 `heroku logs` 
