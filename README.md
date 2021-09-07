@@ -12,7 +12,7 @@ Instructions for how to deploy MEN stack apps using MongoDB Atlas and Heroku
 
 > Heroku is a free hosting service that supports deployment for a variety of apps. We will have to sign up for an account and configure our environment variables here.
 
-## Create a Separate Repo
+<!-- ## Create a Separate Repo
 If this is a group project you will most likely want to have your own version of the app deployed that you can continue to work on post graduation.
 
 1. If you were not the original owner/creator of the project repo, go ahead and make your way to the repo for the project on Github and fork that project to your own Github account.
@@ -22,7 +22,7 @@ for example.
 ```bash
 git clone git@github.com:myusername/wayfarer-project.git wayfarer-project-personal
 ```
-3. Now you're ready to deploy!
+3. Now you're ready to deploy! -->
 
 ## Preflight Checklist
  If you don't already have a `.gitignore` file, create it now in the top-level
