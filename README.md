@@ -129,7 +129,7 @@ We'll have the ability to create free applications using Heroku, but with limita
   * In terminal, run `touch Procfile`. Must be called with a capitol P
   * make sure it is named "Procfile" (no extention)
   * make sure your Procfile is at the same directory level as your server.js file
-  * in terminal type `echo "web: node server.js" >> Procfile`
+  * paste the code `web: node server.js` into your Procfile
 
 * In your `server.js` file, where you get your server started, include the port number in your app.listen function. Example:
 
