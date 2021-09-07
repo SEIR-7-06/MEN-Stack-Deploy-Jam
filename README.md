@@ -21,9 +21,10 @@ Instructions for how to deploy MEN stack apps using MongoDB Atlas and Heroku
 1.Go ahead and make your way to the repo for the project on Github and fork that project to your own Github account.
 
 2. Once you've forked it, clone the repo to your local machine and rename it to something different. This will be your personal version of the repo.
-for example.
+
+ for example...
 ```bash
-git clone git@github.com:myusername/wayfarer-project.git wayfarer-project-personal
+git clone git@github.com:myusername/myprojectname.git myprojectname-personal
 ```
 3. Now you're ready to deploy!
 </details>
