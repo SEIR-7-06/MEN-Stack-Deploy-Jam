@@ -20,7 +20,7 @@ Instructions for how to deploy MEN stack apps using MongoDB Atlas and Heroku
 If this is a group project you will most likely want to have your own version of the app deployed that you can continue to work on post graduation.
 <br/>
  
-1.Go ahead and make your way to the repo for the project on Github and fork that project to your own Github account.
+1. Go ahead and make your way to the repo for the project on Github and fork that project to your own Github account.
 
 2. Once you've forked it, clone the repo to your local machine and rename it to something different. This will be your personal version of the repo.
 
