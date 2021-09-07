@@ -12,7 +12,19 @@ Instructions for how to deploy MEN stack apps using MongoDB Atlas and Heroku
 
 > Heroku is a free hosting service that supports deployment for a variety of apps. We will have to sign up for an account and configure our environment variables here.
 
-## Before We Start
+## Create a Separate Repo
+If this is a group project you will most likely want to have your own version of the app deployed that you can continue to work on post graduation.
+
+1. If you were not the original owner/creator of the project repo, go ahead and make your way to the repo for the project on Github and fork that project to your own Github account.
+
+2. Once you've forked it, clone the repo to your local machine and rename it to something different. This will be your personal version of the repo.
+for example.
+```bash
+git clone git@github.com:myusername/wayfarer-project.git wayfarer-project-personal
+```
+3. Now you're ready to deploy!
+
+## Preflight Checklist
  If you don't already have a `.gitignore` file, create it now in the top-level
 * Make sure `node_modules` folder is included in `.gitignore`. This ensures that once we delete the `node_modules` folder, git won't find it again.
   * If you've forgotten to use `.gitignore` and accidentally checked in the `node_modules` folder to git, you can remove it with the following command: `git rm -r node_modules`
